@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <random_header image="uns_argnature_cesar_cossio" />
+    <random_header image="uns_argnature_chris_stenger" />
+    <random_header image="uns_argnature_cristian_tarzi" />
+    <random_header image="uns_argnature_diego_vitali" />
+    <random_header image="uns_argnature_emiliano_arias" />
+    <random_header image="uns_argnature_geronimo_giqueaux" />
+    <random_header image="uns_argnature_geronimo_giqueaux2" />
+    <random_header image="uns_argnature_gustavo_zambelli" />
+    <random_header image="uns_argnature_gustavo_zambelli2" />
+    <random_header image="uns_argnature_gustavo_zambelli3" />
+    <random_header image="uns_argnature_hector_ramon_perez" />
+    <random_header image="uns_argnature_hector_ramon_perez2" />
+    <random_header image="uns_argnature_hector_ramon_perez3" />
+    <random_header image="uns_argnature_hector_ramon_perez4" />
+    <random_header image="uns_argnature_hector_ramon_perez5" />
+    <random_header image="uns_argnature_hector_ramon_perez6" />
+    <random_header image="uns_argnature_hector_ramon_perez7" />
+    <random_header image="uns_argnature_ignacio_estevo" />
+    <random_header image="uns_argnature_jaume_galofre" />
+    <random_header image="uns_argnature_jose_ignacio_pompe" />
+    <random_header image="uns_argnature_juan_cruz_mountford" />
+    <random_header image="uns_argnature_juan_pablo_mascanfroni" />
+    <random_header image="uns_argnature_julian_alfaro" />
+    <random_header image="uns_argnature_manuel_cortina" />
+    <random_header image="uns_argnature_marcela_rogante" />
+    <random_header image="uns_argnature_matias_contreras" />
+    <random_header image="uns_argnature_matias_wong_zey" />
+    <random_header image="uns_argnature_mauricio_arias" />
+    <random_header image="uns_argnature_octa_bruzzesi" />
+    <random_header image="uns_argnature_paul_lucyk" />
+    <random_header image="uns_argnature_ryan_ancill" />
+    <random_header image="uns_argnature_sander_crombach" />
+    <random_header image="uns_argnature_sander_crombach2" />
+    <random_header image="uns_argnature_santiago_martinez" />
+    <random_header image="uns_argnature_szabolcs_papp" />
+    <random_header image="uns_argnature_transly_translation_agency" />
+</daylight_headers>
